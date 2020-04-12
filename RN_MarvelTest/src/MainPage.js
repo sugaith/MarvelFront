@@ -22,9 +22,6 @@ const PVT_KEY = '05327d45daf139e8960883c1f300122f9448928c';
 const PUB_KEY = '10fced06b94395ad65d9fd90fc930039';
 const color_red = '#D42026';
 
-
-
-
 type Props = {};
 export default class MainPage extends Component<Props> {
 
@@ -84,6 +81,10 @@ export default class MainPage extends Component<Props> {
 
         return (
             <View style={styles2.precontainer}>
+
+
+
+
 
                 {/*HEADER SEARCH*/}
                 <View  style={styles2.containerHeader}>
