@@ -1,13 +1,11 @@
-MarvelFront
-# Protótipo de Front React-Native: consumindo api da MARVEL
+# MarvelFront Prototype
+# React-Native + REDUX + MARVEL's API 
 
-* Código principal se encontra em [RN_MarvelTest/src/MainPage.js](https://github.com/sugaith/MarvelFront/blob/master/RN_MarvelTest/src/MainPage.js)
+* Main code in: [RN_MarvelTest/src/Main.js](https://github.com/sugaith/MarvelFront/blob/master/RN_MarvelTest/src/Main.js)
+* Redux store, actions and reducers in: [RN_MarvelTest/src/store](https://github.com/sugaith/MarvelFront/tree/master/RN_MarvelTest/src/store)
 
 ## Instruções p/ instalar o APP (apenas ANDROID - APK)
-* Baixe o APK [AQUI](https://github.com/sugaith/MarvelFront/raw/master/app-release.apk)
-
-* Ou clique neste link pelo celular Android (válido até dia 14/10/19)
-    - [https://i.diawi.com/Euc552](https://i.diawi.com/Euc552)
+* Download the APK [HERE](https://github.com/sugaith/MarvelFront/raw/master/app-release.apk)
 
 ![Print](https://github.com/sugaith/MarvelFront/blob/master/shot.png?raw=true)
 
